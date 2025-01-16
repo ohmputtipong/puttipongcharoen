@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/ohmputtipong/puttipongcharoen/blob/main/assets/434727673_1530522490838795_8689218112093107618_n.jpg?raw=true" width="100%"/>
+  <img src="https://github.com/ohmputtipong/puttipongcharoen/blob/main/assets/434727673_1530522490838795_8689218112093107618_n.jpg?raw=true" width="50%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Puttipong Charoen</h1>
 <h3 align="center">A Web Developer from Thailand</h3>
