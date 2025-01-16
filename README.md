@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src=>
 </div>
 <h1 align="center">Hi 👋, I'm Puttipong Charoen</h1>
 <h3 align="center">A Web Developer from Thailand</h3>
